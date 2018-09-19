@@ -4,6 +4,7 @@ import numpy as np
 
 def ForwardEuler(f, t0, y0, T, n, dt):
     """Solve y'=f(t,y), y(0)=y0, with n steps until t=T."""
+    #div by zero
     if dt == -1:
         dt = (T-t0)/float(n)
     else:
