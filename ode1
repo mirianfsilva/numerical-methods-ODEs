@@ -289,16 +289,6 @@
    ]
   },
   {
-   "cell_type": "markdown",
-   "metadata": {
-    "colab_type": "text",
-    "id": "WJUxHOIHQYmg"
-   },
-   "source": [
-    "## Exercício 4 "
-   ]
-  },
-  {
    "cell_type": "code",
    "execution_count": 1,
    "metadata": {
